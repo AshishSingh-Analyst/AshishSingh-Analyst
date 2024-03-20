@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analyst Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshishSingh-Analyst/Compuage-Infocom-Sales-Insight.git]([https://github.com/AshishSingh-Analyst/Compuage-Infocom-Sales-Insight.git](https://github.com/AshishSingh-Analyst?tab=repositories))
-
+- 👨‍💻 All of my projects are available at https://github.com/AshishSingh-Analyst?tab=repositories
 - 📫 How to reach me **ashishsingh.as2023@gmail.com**
 
 - ⚡ Fun fact **Snakes can predict earthquake.**
