@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my skillsets to enhance my BA role skills.**
 
-- 👯 I’m looking to collaborate on **Busines/Data Analyst Project**
+- 👯 I’m looking to collaborate on **Business/Data Analyst Project**
 
 - 👨‍💻 All of my projects are available at https://github.com/AshishSingh-Analyst?tab=repositories
 - 📫 How to reach me **ashishsingh.as2023@gmail.com**
